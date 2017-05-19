@@ -1,0 +1,961 @@
+{
+  "head": {
+    "vars": [ "label" , "co" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain provitaminA content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000125" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Anther Anthocyanin coloration" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000651" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fusarium moniliforme stalk rot severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000841" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Ear harvested number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000523" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant aspect" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000011" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000010" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Maize streak virus incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000100" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Anthesis silking interval" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000001" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stem lodging incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000035" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Ear leaf senescence time" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000143" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain viability" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000990" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain moisture" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000033" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Sugarcane mosaic virus incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000101" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain sucrose content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000120" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tassel Anthocyanin coloration" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000541" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Gray leaf spot severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000088" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Shelled cob weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000925" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Common smut severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000082" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain row number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000167" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Endosperm hardness" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000041" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tassel exertion" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000543" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Army worm damage" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000154" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain weight loss by maize weevil" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000131" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Chilo damage" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000155" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Diabrotica damage" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000156" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Biotic stress traits" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:Biotic%20stress%20traits" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tassel size" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000038" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain abscisic acid content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000113" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain glucose content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000115" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain proline content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0001104" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Canopy temperature" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000142" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000172" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Polysora rust severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000055" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Black bundle incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000060" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Ear number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000021" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Sheath pubescence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000163" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Brown spot severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000086" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Normalized difference vegetation index" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000132" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Silk length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000013" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain Lysine content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000108" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Ear growth rate" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000016" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Maize weevil incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000129" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain Nitrogen content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0001120" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain protein content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000122" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Chlorophyll content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000003" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain type" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000168" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tassel branching type" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000164" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Abiotic stress traits" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:Abiotic%20stress%20traits" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Phaeosphaeria leaf spot severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000090" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain Tryptophan content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000103" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Ear width" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0001091" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Aflatoxin content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000214" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Common smut incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000556" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Pericarp color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000192" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain starch content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000126" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tassel blasting severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000188" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Cob glumes color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0001086" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Aspergillus ear rot severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000520" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Root proline content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000119" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Agronomical traits" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:Agronomical%20traits" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Brown stripe downy mildew incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000078" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Ear diameter" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000170" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Uppermost ear shape" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000171" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant height to insertion of first tassel branch" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000007" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Osmotic potential" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000118" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Silk Anthocyanin coloration" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000539" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Endosperm protein content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000123" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain sugar content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000114" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Root capacitance" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000102" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain yield" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000005" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Cob glumes Anthocyanin coloration" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0001083" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant height" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000994" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stem color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000162" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tassel opening" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000544" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fusarium graminearum stalk rot incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000065" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Curvularia leaf spot severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000089" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Crazy top downy mildew incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000081" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain width" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000175" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain row arrangement" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000166" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Ear aspect" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000018" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Ear weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000524" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain upper surface shape" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000178" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Ear shelling ratio" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000526" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stomatal conductance" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000134" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Turcicum leaf blight severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000092" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain oil content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000533" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Endosperm Tryptophan content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000106" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tar spot complex severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000091" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Multiple cob incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000151" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tillering" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000059" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Ear bad husk cover incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000150" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000146" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Philippine downy mildew incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000076" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Ear shape" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000664" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Phenological traits" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:Phenological%20traits" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Seedling disease incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000093" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Corn stunt spiroplasma severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000488" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Banded leaf and sheath blight severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000084" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain iron content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000110" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tassel branch weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000027" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000025" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain zinc content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000111" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Photochemical radiation index" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000140" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Water index" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000141" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant stand" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000008" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Morphological traits" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:Morphological%20traits" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Silk growth rate" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000014" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Ear leaf weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000112" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fusarium stalk rot incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000063" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tassel glumes Anthocyanin coloration" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000947" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Root glucose content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0001116" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Head smut incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000083" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant uniformity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000545" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf erectness" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000538" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Ear rot incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000068" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Ear leaf chlorophyll content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000105" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Ear height" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000017" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fusarium moniliforme ear rot severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000071" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf sucrose content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000978" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stewarts wilt incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000050" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Maize rough dwarf virus incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000097" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Busseola incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000152" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tassel branch number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000028" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Sugarcane downy mildew incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000077" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Root lodging incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000034" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Maize dwarf mosaic virus severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0001054" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tassel glumes base Anthocyanin coloration" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000944" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Maize rayado fino virus incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000095" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Penicillium ear rot severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000074" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Endosperm Lysine content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000109" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain thickness" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000184" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf proline content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0001110" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Maize bushy stunt severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000053" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Ear leaf length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000019" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Maize stripe virus incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000098" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Striga damage" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000158" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain test weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0001005" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tropical rust severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000056" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Downy mildew severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000075" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Silk growth" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000144" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf abscisic acid content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0001108" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000537" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Quality traits" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:Quality%20traits" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Aphid damage" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000128" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain ash content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000137" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain texture" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000039" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Standard germination" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000540" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fungal disease presence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000046" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Ear length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000015" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Maize weevil number in Grain" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000130" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Ear growth" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000145" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf rolling severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000160" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Osmotic adjustment" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000117" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Ear damage" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000165" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Endosperm color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000186" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Earworm damage" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000685" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf ash content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000772" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Common rust severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000085" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant vigor" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000546" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Lodging incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000857" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Earworm incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000153" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Large grain borer damage" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000127" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Maydis leaf blight severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000057" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Root abscisic acid content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0001114" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stem borer damage" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000159" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Mal de rio cuarto virus incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000094" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Bacterial leaf stripe severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000051" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Maize dwarf mosaic virus incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000099" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Bacterial stalk rot incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000052" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Silking time" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000031" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fusarium moniliforme stalk rot incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000064" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Ear husk cover" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000149" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Young leaf chlorophyll content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000024" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Maize streak virus severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000878" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stalk rot incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000061" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Rust severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000054" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Aleurone color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000190" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stenocarpella stalk rot incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000066" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plants harvested" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000550" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000133" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Sorghum downy mildew incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000080" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Diatraea damage" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000157" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Charcoal rot incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000062" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fusarium ear rot severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000069" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Busseola damage" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000808" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tassel density" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000542" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fusarium graminearum ear rot severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000070" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Maturity time" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000032" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf width" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000026" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Maize lethal necrosis severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000182" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Aspergillus flavus ear rot severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000072" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Physiological traits" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:Physiological%20traits" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Java downy mildew incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000079" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant height to ligule of the flag leaf" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000997" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Ear position" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000020" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Senescence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000012" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Anthracnose leaf blight incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000058" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stenocarpella ear rot severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000073" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Pythium stalk rot incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000067" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Striga plant number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000938" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Root sucrose content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0001118" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Cob sucrose content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0001099" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Anthesis time" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000030" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Head smut severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000852" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Seedling vigor" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0001017" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Late wilt incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000161" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Sorghum downy mildew severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000829" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Maize" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:ROOT" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Corn stunt incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000049" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Kernel upper surface shape" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000178" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Whole-grain pro-vitaminA content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000125" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Kernel type" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000168" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Kernel thickenss" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000184" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Kernel row number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000167" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Whole-grain iron content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000110" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Kernel row arrangement" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000166" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Northern corn leaf blight severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000092" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "male flowering time" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000030" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Whole-grain Lysine content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000108" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Whole-grain zinc content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000111" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Whole-grain starch content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000126" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Kernel width" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000175" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Kernel color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000146" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "female flowering" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000031" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Kernel mineral content; Whole-grain ash content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000137" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "EarForm" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000664" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Whole-grain protein content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000122" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "maturity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000032" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Southern corn leaf blight severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000057" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Kernel length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000172" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Chupon" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000151" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Early vigor" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0001017" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fogueo" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000188" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "plant to ear height ratio" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000020" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Whole-grain oil content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000533" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Whole-grain Tryptophan content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000103" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Kernel number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0000010" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Whole-grain Nitrogen content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_322:0001120" }
+      }
+    ]
+  }
+}

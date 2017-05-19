@@ -1,0 +1,597 @@
+{
+  "head": {
+    "vars": [ "label" , "co" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Midge incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000157" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stover biomass dry matter content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000514" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain shape in dorsal view" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000292" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf vein color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000056" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Panicle harvest index" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000012" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Peduncle length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000271" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stem juice sugar content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000196" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Panicle weight without grain" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000014" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant basal tiller number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000040" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stover organic matter digestibility" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000031" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stover Biomass dry matter basis yield" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000082" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain decortication yield" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000211" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Biotic stress traits" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:Biotic%20stress%20traits" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stem sodium content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000024" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain protein content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000250" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Panicle off type number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000169" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stem biomass yield at harvest" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000022" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stem juice weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000142" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Panicle number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000013" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Sorghum stem borer incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000068" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Heading time" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000121" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Panicle width" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000042" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf midrib color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000057" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Panicle density" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000187" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Endosperm texture" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000259" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Panicle desirability" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000184" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Agronomical traits" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:Agronomical%20traits" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Whole above ground biomass moisture content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000561" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stover biomass yield at harvest" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000522" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain yield" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000199" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Harvest time" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000035" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant height" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000088" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Decorticated grain weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000659" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Whole above ground biomass dry matter basis yield" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000020" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf to stem weight ratio" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000028" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stem Biomass dry matter basis yield" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000496" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Panicle yield at harvest" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000076" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Striga maximum vigor" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000151" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "To consistency" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000256" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Whole above ground biomass dry matter content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000542" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain dry matter basis yield" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000006" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Green leaves number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000241" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Coleoptile color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000298" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain harvest index" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000019" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain lustre" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000047" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Effective tiller number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000389" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf biomass yield at harvest" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000438" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000045" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Phenological traits" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:Phenological%20traits" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Cytoplasmic male sterility" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000145" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Flowering time" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000027" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Foliar anthracnose response" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000569" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain desirability" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000130" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain weight per panicle" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000073" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stem elongated internodes number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000235" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Morphological traits" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:Morphological%20traits" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stem juice volume" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000202" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant lodging incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000283" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "To color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000253" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Sorghum rust incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000063" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Variety photoperiod sensitivity coefficient" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000238" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Panicle harvested number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000166" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain size" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000046" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Variety maturity appreciation" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000148" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Striga incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000193" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Empty panicle number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000160" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain density" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000223" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Panicle threshability" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000100" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stover biomass moisture content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000530" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000485" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain covering" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000091" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Variety farmer preference" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000127" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant anthocyanin presence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000214" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain yield at harvest" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000133" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Insect damage" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000065" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain standardized yield" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000415" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Flag leaf weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000002" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain subcoat presence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000044" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Sorghum shoot fly incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000067" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Helminthosporiose disease presence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000220" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Glume color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000097" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Foliar anthracnose severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000109" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf biomass dry matter basis yield" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000004" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Panicle exertion" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000049" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain moisture content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000405" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stem length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000625" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Panicle compactness and shape" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000050" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain mold severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000103" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain lipid content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000247" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Glume opening" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000286" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Sooty stripe disease presence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000217" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000055" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of seedling hills" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000172" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Quality traits" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:Quality%20traits" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain amylose content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000244" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Rest of leaves weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000003" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Pericarp thickness" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000265" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Panicle dry matter content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000459" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of harvested hills" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000163" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Endosperm color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000205" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stem biomass moisture content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000506" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stem internodes length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000139" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Glume awnedness" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000226" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Glume adhesion" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000295" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant vigor" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000136" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf biomass dry matter content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000430" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain number per panicle" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000009" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Whole above ground biomass yield at harvest" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000553" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Panicle selected number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000178" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain dry matter content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000394" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Panicle dry matter basis yield" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000268" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf biomass moisture content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000446" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Flag leaf ligulation time" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000274" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Panicle length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000094" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000079" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain anthracnose severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000106" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Sorghum downy mildew incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000061" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Seedling number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000175" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Maturity time" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000085" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stem potassium content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000025" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Sorghum" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:ROOT" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain roundness" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000262" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stover nitrogen digestibility" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000016" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Striga mean vigor" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000154" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stem biomass dry matter content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000492" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stover metabolised energy" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000036" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant agronomic appreciation" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000112" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain hardness" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000277" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Striga plant number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000181" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stem nodal tiller number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000039" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Panicle moisture content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000473" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Seedling vigor" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000190" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain rotation" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000289" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain shape in profile view" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000600" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Sowing time" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000124" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant vegetative growth rate" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000538" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Biomass partitioning" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000019" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": " PVIG" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000136" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "T���� consistency" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000256" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain specific weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000223" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "T���� color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000253" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant vigor" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000136" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Panicle partitioning" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000012" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Cytoplasm system" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000145" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Juice quantity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000202" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Off type number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000169" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_324:0000157" }
+      }
+    ]
+  }
+}

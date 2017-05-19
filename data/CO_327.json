@@ -1,0 +1,233 @@
+{
+  "head": {
+    "vars": [ "label" , "co" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Basal tiller number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000135" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Bristle length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000102" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant reaction to rust" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000051" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Nodal tiller number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000138" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Smut infection proportion" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000054" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Flag leaf length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000123" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Panicle diameter" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000063" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Pearl millet" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:ROOT" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Date of sowing" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000000" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of seedling plants" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000024" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Head miner damage" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000117" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of off-type panicles" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000084" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Panicle compactness" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000096" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Ergot infection proportion" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000048" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stem diameter" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000129" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Pollen fertility" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000108" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Flag leaf dimeter" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000126" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Seed color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000132" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Agronomical traits" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:Agronomical%20traits" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant height" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000057" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Striga tolerance" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000114" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Date of physiological maturity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000015" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Panicle girth" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000066" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Overall plant performance" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000196" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Date of harvest" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000018" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Date of anthesis" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000012" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Phenological traits" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:Phenological%20traits" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant reaction to blast" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000045" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Morphological traits" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:Morphological%20traits" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Downy mildew infected hill number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000042" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Agronomic appreciation score" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000087" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Hill number per plot" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000036" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Farmer appreciation score" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000090" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant number per plot" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000033" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Panicle exertion" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000069" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Biotic Stress traits" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:Biotic%20Stress%20traits" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Date of heading" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000006" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of seedling hills" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000021" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Bristle density" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000105" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of harvested hills" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000075" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stem borer damage" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000120" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Vegetative vigor" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000030" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Panicle length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000060" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Grain weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000141" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "100 grain weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000144" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of harvested panicles" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000081" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Ferility traits" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:Ferility%20traits" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of empty or missing panicles" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000078" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Date of emergence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000003" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Seed set" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000111" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Bristle presence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000099" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Date of bloom" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000009" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Seedling vigor" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000027" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of harvested plants" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000072" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Downy mildew infected plant number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000039" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Farmer preference score" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_327:0000093" }
+      }
+    ]
+  }
+}

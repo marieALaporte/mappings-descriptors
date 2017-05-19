@@ -1,0 +1,321 @@
+{
+  "head": {
+    "vars": [ "label" , "co" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Main stem dry weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000156" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Abiotic stress trait" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:Abiotic%20stress%20trait" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Root rot incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000094" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Male flower length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000159" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Seed length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000205" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Capsule shattering incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000034" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tertiary raceme number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000081" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf lamina leaf width" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000119" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Primary raceme capsule covered length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000168" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Biotic stress trait" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:Biotic%20stress%20trait" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Quality trait" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:Quality%20trait" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf area" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000115" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf lobe number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000131" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000135" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Seed color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000201" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Secondary raceme dry weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000070" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Primary raceme capsule dry weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000044" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant height" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000165" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stem color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000215" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Seed shape" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000208" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Frost damage" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000025" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Secondary branch number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000188" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Primary raceme male flower covered length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000174" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Raceme number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000063" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Primary raceme seed number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000050" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant earliness" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000234" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Seed yield fresh weight basis" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000001" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Main stem length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000149" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Seed oil content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000241" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Agronomical trait" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:Agronomical%20trait" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Hundred seed dry weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000075" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Secondary raceme number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000067" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tertiary raceme length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000219" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Primary raceme dry weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000057" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Flowering time" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000003" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000128" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Raceme shape" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000181" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Main stem node number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000152" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Secondary raceme length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000198" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf dry weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000143" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Primary raceme height" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000047" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Raceme length covered by female flowers" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000112" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Morphological trait" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:Morphological%20trait" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Drought tolerance" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000022" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Productive raceme number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000060" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Seed ricin content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000244" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Gray mold resistance" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000087" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tertiary raceme dry weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000084" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Aluminium tolerance" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000019" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf lamina dry weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000125" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Emergence time" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000002" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant dry weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000195" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Seed width" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000212" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Seed ricinine content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000247" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Thousand seed dry weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000073" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Primary raceme capsule number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000040" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Petiole length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000162" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Capsule spineness" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000104" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Branching pattern" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000100" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Salinity tolerance" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000031" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Capsule yield" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000037" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Raceme compactness" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000177" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Root rot resistance" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000097" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Secondary branch length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000185" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Primary raceme seed dry weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000054" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Oil yield" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000238" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "High temperature tolerance" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000028" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Castor bean" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:ROOT" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Maturity time" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000004" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf shape" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000139" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant fresh weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000192" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Main stem diameter" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000146" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Primary raceme length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000171" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Capsule wall hardness" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000108" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Gray mold severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000090" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Phenological trait" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:Phenological%20trait" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf lamina length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000122" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Raceme capsule arrangement" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_347:0000177" }
+      }
+    ]
+  }
+}

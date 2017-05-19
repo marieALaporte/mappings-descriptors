@@ -1,0 +1,1565 @@
+{
+  "head": {
+    "vars": [ "label" , "co" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of fingers measured" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000333" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fusarium wilt photograph" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000704" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Nematode reproduction factor (microplot screening)" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000518" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Pigmentation of outer surface of cigar leaf on sucker" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000252" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Annual crop cycle proportion" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000381" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Accession ID" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000411" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Finger internal length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000339" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Death proportion" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000369" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Black leaf streak disease severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000574" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of leaves with black leaf streak disease severity grade 2" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000584" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Main underlying colour of pseudostem" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000243" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Percentage of plants with external disease symptoms caused by Fusarium wilt" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000078" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of plants not harvested" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000367" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Shooting photograph" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000696" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Banana weevil adult average body length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000630" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Colour of bract external face" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000463" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fruit smashed pulp colour" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000498" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fruit apex point" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000488" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Colour of bract internal face" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000466" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Banana weevil adult average body weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000634" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of banana weevil traps used" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000612" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of maiden suckers" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000221" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of Pratylenchus coffeae per soil sample" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000530" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Finger external length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000051" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Hand rank of 2nd-most distal hand" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000684" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of leaves with black leaf streak disease severity grade 5" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000590" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Banana" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:ROOT" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Male rachis type" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000442" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fruit unsmashed pulp colour" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000500" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of plants planted" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000357" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Date of damage" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000272" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of fingers in 2nd hand" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000718" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Remains of flower relicts at fruit apex" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000490" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of Pratylenchus goodeyi per fresh root weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000541" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of hands on whole bunch" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000478" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Nematode lifecycle stage" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000753" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of Pratylenchus coffeae per fresh root weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000543" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Multiple finger weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000331" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Average number of banana weevil larvae per trap" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000618" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Margin behaviour on petiole canal of third leaf" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000433" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Weekly leaf emission rate" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000726" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Off-type photograph" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000690" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Row ID" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000405" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Time from planting to death" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000294" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Rachis weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000314" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Percentage damage to lower cross-section inner corm caused by weevils" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000677" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Average finger external length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000337" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Rank of oldest standing leaf" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000548" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Nematode species" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000751" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Percentage of plants with internal disease symptoms caused by Fusarium wilt" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000081" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Time from planting to first youngest leaf spotted" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000570" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant circumference 100 cm from the collar" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000012" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Colour line along edge of petiole margin" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000248" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of leaves with black leaf streak disease severity grade 1" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000582" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of Pratylenchus spp. per soil sample" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000527" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Death photograph" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000694" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Date of tagged leaf presenting black leaf streak disease symptoms at Foure's stage 1" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000553" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of fruits on mid-hand of the bunch" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000480" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Monthly leaf emission rate" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000021" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Banana weevil adult body weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000632" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Death density" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000371" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Banana weevil larvae head capsule width" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000636" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fruit smashed pulp smoothness-mouth feel" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000510" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of leaves with black leaf streak disease severity grade 4" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000588" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Finger peel thickness" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000236" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Harvest density" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000375" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant ID QR code" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000423" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Percentage of plants with petiole collapse caused by Fusarium wilt" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000606" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Rank of previously marked leaf" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000566" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Percentage of plants with changes in new leaves caused by Fusarium wilt" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000604" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant height" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000009" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "End date and time of data collection" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000688" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Off-type description" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000709" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Pest and/or disease assessment and/or sample collection options" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000743" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of Pratylenchus goodeyi per soil sample" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000529" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Rating of external symptoms of Fusarium wilt in the field" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000749" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Time from flowering to harvest" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000292" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Bunch at harvest photograph" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000698" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of Meloidogyne spp. per soil sample" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000526" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Percentage of functional roots" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000117" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fruit length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000482" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Overall fruit pendulance quality" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000389" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of Meloidogyne spp. per fresh root weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000535" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Banana weevil adult head capsule width" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000624" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Harvest proportion" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000373" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fruit shape of curve" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000485" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Finger lateral diameter" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000233" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Blotches relative area at petiole base" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000427" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Nematode root knot galling extent" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000126" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Average actual annual yield" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000385" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant annual yield" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000383" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tallest sucker height" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000027" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Date of harvest" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000286" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Date of shooting" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000211" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Date of death" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000279" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Male bud length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000451" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Male bud shoulder" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000454" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Average number of banana weevil adults per trap" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000614" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Bunch weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000033" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of banana weevil adults measured" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000620" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Average finger internal length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000341" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Overall suckering quality" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000395" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Banana weevil larvae average body length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000642" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Nematode egg-laying females extent" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000129" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of Radopholus similis per fresh root weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000533" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Anther colour" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000475" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Start date and time of data collection" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000686" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Blotches colour at the petiole base" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000430" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tallest sucker number of functional leaves" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000675" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of spotted leaves" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000572" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of suckers" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000024" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fruit smashed pulp taste" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000502" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fruit unsmashed pulp texture" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000508" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Overall bunch quality" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000391" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Rating of internal symptoms of Fusarium wilt in the greenhouse" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000747" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of all roots" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000114" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Compound tepal main colour" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000469" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Date of data collection" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000289" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Date of tagged cigar leaf unrolling at Brun's stage B" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000550" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Multiple hand weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000327" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Ratoon crop cycle" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000298" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Genotype ID" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000413" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Agronomical" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:Agronomical" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of Helicotylenchus multicinctus per soil sample" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000523" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Bunch position" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000438" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Black leaf streak disease development time" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000063" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Average fruit pulp lateral diameter" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000352" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Time from planting to shooting" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000000" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant crop cycle" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000006" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of fingers in hand" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000042" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of banana weevil larvae per trap" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000616" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Time from start of crop cycle to first external disease symptoms caused by Fusarium wilt" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000084" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Damage photograph" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000692" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Average finger lateral diameter" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000348" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Extent of internal discolouration in corm of tallest sucker caused by Fusarium wilt" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000072" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of plants dead" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000363" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Physiological" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:Physiological" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Presence of splitting pseudostem base caused by Fusarium wilt" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000090" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Date of tagged leaf presenting black leaf streak disease symptoms at Foure's stage 6" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000556" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Average finger weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000335" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of Hoplolaimus spp. per soil sample" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000528" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant ID manual entry" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000733" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Cause of death" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000282" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Phenological" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:Phenological" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Date of recognising off-type" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000269" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Average finger circumference" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000344" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of peeper suckers" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000229" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Youngest leaf spotted" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000099" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Percentage of dead roots" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000120" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Presence of changes in new leaves caused by Fusarium wilt" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000093" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Dwarfism" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000397" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fruit unsmashed pulp taste" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000504" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of Radopholus similis per soil sample" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000522" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of water suckers" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000310" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Pest and/or disease photograph" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000700" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Banana weevil adult body length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000628" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant damage options" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000741" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of functional roots" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000111" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Lobe colour of tip of compound tepal" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000472" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Average percentage damage to the corm caused by weevils" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000681" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Total finger weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000316" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of Rotylenchulus spp.per soil sample" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000524" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant spacing" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000359" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Biotic stress" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:Biotic%20stress" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant circumference at collar" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000667" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant circumference 20 cm from the collar" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000665" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Damage description" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000275" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Rank of marked youngest leaf" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000564" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Cause of damage" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000277" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Pseudostem height" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000425" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of Hoplolaimus spp. per fresh root weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000539" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Genotype purpose" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000415" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Presence of petiole collapse caused by Fusarium wilt" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000096" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf spot photograph" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000702" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Quality traits" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:Quality%20traits" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant ID" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000421" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fruit smashed pulp texture" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000506" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Bract behaviour before falling" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000461" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Banana weevil larvae body length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000640" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Bunch maturity stage at harvest" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000312" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Trial ID" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000401" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Mat ID" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000417" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Time from harvest to death" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000296" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Date of first youngest leaf spotted" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000545" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fruit pulp lateral diameter" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000240" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Multiple number of fingers in hand" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000320" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Petiole margins clasping" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000260" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Bunch shape" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000440" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Non-harvest density" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000379" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Date of first external disease symptoms caused by Fusarium wilt" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000561" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Morphological" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:Morphological" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Bract apex shape" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000456" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Crop cycle ID" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000419" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of Pratylenchus spp. per fresh root weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000537" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant height to neck of peduncle" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000307" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of leaves with black leaf streak disease severity grade 3" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000586" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of functional leaves" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000066" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Finger weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000048" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Male rachis position" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000444" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of banana weevil adults per trap" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000610" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Banana weevil adult average head capsule width" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000626" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant state options" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000739" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Index of non-spotted leaves" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000102" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Average finger peel thickness" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000355" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Average number of fingers in hand" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000324" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Extent of internal discolouration in corm of plant caused by Fusarium wilt" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000559" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of sword suckers" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000225" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of standing leaves" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000069" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Percentage of plants with yellowing leaves caused by Fusarium wilt" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000600" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Petiole margins winged" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000256" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Calculated number of fingers in bunch" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000039" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Finger circumference" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000054" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant circumference 75 cm from the collar" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000663" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Root necrosis caused by nematodes" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000123" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Male bud shape" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000448" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Presence of yellowing leaves caused by Fusarium wilt" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000087" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Pest or disease sample collection" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000745" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant lifecycle stage options" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000735" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Black leaf streak disease evolution time" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000060" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of hands in bunch" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000036" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fruit smashed pulp aroma/smell" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000514" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Nematode root knot galling presence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000706" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Black leaf streak disease incubation time" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000057" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant state description" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000711" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of hands measured" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000322" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Nematode population density by species in soil" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000520" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Average potential annual yield" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000387" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Date of weevil damage to corm assessment" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000660" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fusion of pedicels" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000496" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Parthenocarpy" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000393" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Damage to periphery of peeled corm caused by weevils" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000516" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Hand weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000045" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of dead roots" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000108" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Percentage damage to upper cross-section outer corm caused by weevils" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000648" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant density" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000361" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Banana weevil larvae body weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000644" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Banana weevil larvae average head capsule width" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000638" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Type of planting material" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000727" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Banana weevil larvae average body weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000646" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Root nematode density" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000531" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Male rachis appearance" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000446" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of leaves with black leaf streak disease severity grade 0" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000580" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Distance of internal discolouration in pseudostem of plant caused by Fusarium wilt" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000075" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fruit pulp colour" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000729" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of plants harvested" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000365" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of fingers in outer whorl of 2nd-most distal hand" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000724" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Column ID" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000407" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of fingers in 2nd-most distal hand" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000722" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Percentage of plants with a splitting pseudostem base caused by Fusarium wilt" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000602" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Percentage damage to upper cross-section inner corm caused by weevils" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000650" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of banana weevil larvae measured" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000622" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Biochemical" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:Biochemical" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Percentage damage to lower cross-section outer corm caused by weevils" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000679" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Bract imbrication at apex of male bud" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000459" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Black leaf streak disease severity index" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000105" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of leaves with black leaf streak disease severity grade 6" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000592" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fruit unsmashed pulp smoothness-mouth feel" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000512" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Petiole margin colour" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000264" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of fingers in 3rd hand" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000720" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Date of flowering" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000218" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Time from shooting to harvest" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000003" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Block ID" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000403" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Average hand weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000329" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Vitamin C content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000608" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Spatial position ID" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000409" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Trial group ID" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000399" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Non-harvest proportion" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000377" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Date of planting" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000266" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Pest and/or disease assessment and/or sample collection description" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000713" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fruit pedicel length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000493" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Planting date" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000266" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Time to death of the ratoon plant" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000296" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": " Shooting date" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000211" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Damage index-X-inner" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000650" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Damage index-X-inner" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000677" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": " Fruit grade" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000348" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": " Fruit grade" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000233" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": " Bunch maturation period" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000003" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Date of tagged leaf presenting black Sigatoka symptoms at Foure's stage 6" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000556" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Male bud size" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000454" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Male bud size" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000451" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Damage index-X-average" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000681" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Edge of petiole margin" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000248" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Colour of cigar leaf dorsal surface" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000252" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Colour of the bract external face" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000463" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Crop cycle" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000006" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Damage date" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000272" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Black Sigatoka disease development time" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000063" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Rachis angle" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000444" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": " Plant circumference" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000012" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": " Plant circumference" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000665" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": " Plant circumference" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000663" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": " Plant circumference" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000667" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fruit shape (longitudinal curve)" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000485" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of hands" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000478" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Finger pulp colour" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000729" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Finger grade" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000348" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Finger grade" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000233" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stage of harvesting" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000312" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": " Mother plant crop cycle" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000006" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant height" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000425" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of leaves with black Sigatoka disease severity grade 6" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000592" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fruit length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000482" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": " Bunch maturity period" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000003" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Predominant underlying colour of the pseudostem" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000243" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": " Width of the exocarp" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000236" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": " Width of the exocarp" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000355" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Blotches colour" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000430" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": " Height of following sucker" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000027" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Petiole margins" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000260" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Petiole margins" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000256" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Lobe colour" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000472" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": " Finger peel thickness" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000236" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": " Finger peel thickness" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000355" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Petiole canal of the third leaf" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000433" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": " Time from planting to harvest" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000006" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Average finger dorsal length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000337" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "peripheral damage" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000516" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of leaves with black Sigatoka disease severity grade 2" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000584" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": " Length of reproductive stage" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000003" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Date of tagged leaf presenting black Sigatoka symptoms at Foure's stage 1" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000553" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Length of vegetative stage" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000000" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Finger girth" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000054" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": " Lobe colour of compound tepal" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000472" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": " Plant girth" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000012" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": " Plant girth" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000665" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": " Plant girth" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000663" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": " Plant girth" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000667" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": " Total hand weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000316" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Black Sigatoka disease evolution time" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000060" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Finger ventral length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000339" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Date of bunch emergence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000211" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Time of fruit-filling" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000003" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": " Date of bunching" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000211" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": " Fruit diameter" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000348" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": " Fruit diameter" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000233" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Black Sigatoka disease severity; Percentage area necrotic" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000574" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Black Sigatoka disease incubation time" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000057" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fruit apex" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000488" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Time from harvest to harvest" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000298" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Pseudostem girth" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000012" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Pseudostem girth" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000665" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Pseudostem girth" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000663" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Pseudostem girth" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000667" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Rachis appearance" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000446" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Harvest date" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000286" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": " Flowering date" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000218" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Pseudostem height" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000307" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Pseudostem height" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000009" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Width of the peel" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000236" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Width of the peel" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000355" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Damage index-X-outer" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000679" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Damage index-X-outer" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000648" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Colour of the bract internal face" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000466" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of leaves with black Sigatoka disease severity grade 3" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000586" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": " Width of the skin" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000236" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": " Width of the skin" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000355" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Black Sigatoka disease infection index" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000105" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Finger dorsal length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000051" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of leaves with black Sigatoka disease severity grade 5" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000590" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": " Shooting time" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000211" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Time to death" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000294" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Total fruit weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000316" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Blotches at the petiole base" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000427" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of fruits" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000480" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Death date" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000279" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of leaves with black Sigatoka disease severity grade 4" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000588" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": " Pseudostem circumference" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000012" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": " Pseudostem circumference" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000665" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": " Pseudostem circumference" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000663" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": " Pseudostem circumference" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000667" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Date of bract fall" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000218" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number and severity of spotted leaves" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000572" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Finger pulp diameter" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000352" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Finger pulp diameter" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000240" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of leaves with black Sigatoka disease severity grade 1" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000582" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": " Following sucker height" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000027" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": " Date of flowering (incorrect usage)" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000211" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": " Petiole canal leaf III" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000433" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Average finger ventral length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000341" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": " Compound tepal basic colour" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000469" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Average finger girth" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000344" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": " Fruit-filling period" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000003" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Yield" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000385" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Yield" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000387" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Height of tallest sucker" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000027" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tepal colour" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000469" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of leaves with black Sigatoka disease severity grade 0" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000580" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Bract imbrication" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_325:0000459" }
+      }
+    ]
+  }
+}

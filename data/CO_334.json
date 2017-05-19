@@ -1,0 +1,869 @@
+{
+  "head": {
+    "vars": [ "label" , "co" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Frog Skin Disease" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000370" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Poundability" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000437" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Petiole Insertion Angle" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000428" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Shoot apex size" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000268" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Spiraling Whitefly Incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000464" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Carotenoid content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000297" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant shape" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000433" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Lafun Content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000388" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf lobe width" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000394" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf Lobes Number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000395" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Beta Carotenoid Retention" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000292" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Swelling capacity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000497" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of seeds sown" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000418" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Amylose Amylopectin Ratio" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000278" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fibre Content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000366" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Hairiness" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000382" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Cassava Mealy Bug Incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000339" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Bemesia tabaci nymphs black" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000288" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Ovary Color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000421" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Anther Color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000280" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant Stands Harvested" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000434" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Storage Root Size" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000492" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Cassava anthracnose disease incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000038" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Cassava mosaic disease incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000039" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of stakes" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000419" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Proportion of plant with inflorescence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000441" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Male Sterile" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000404" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Root Yield" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000456" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Cassava green mite incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000122" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf scar distance" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000397" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Young Stem Pubescence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000506" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Flowering" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000367" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Root Surface Texture" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000455" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Storage Root Shape" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000491" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Amylopectin Content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000277" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stem weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000480" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stalk length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000473" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Color Of Boiled Tuberous Roots" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000355" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Protein Content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000442" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf Vein Color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000401" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of Bemesia tabaci nymphs" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000411" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Root evaluation" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000448" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Biotic stress trait" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:Biotic%20stress%20trait" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Root length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000450" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Quality trait" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:Quality%20trait" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Storage Root Peduncle" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000488" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plantable stem length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000435" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Initial Vigor" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000386" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Marketable root weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000406" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf Life  span" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000390" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Male flower number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000403" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Anthocyanin Pigmentation" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000281" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Trans-9 activity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000501" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Storage Root Pulp Color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000490" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Ash Content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000285" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Amylose Content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000279" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Zinc Content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000507" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of Bemesia tabaci adult" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000410" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000402" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Presence of pollen" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000438" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Cassava bacterial blight incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000037" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Ease Of Peeling Root Cortex" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000362" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of forks" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000413" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Non marketable root weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000409" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Root constrictions number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000446" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stem cortex color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000476" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Beta carotene" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000291" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Taste Of Boiled Roots" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000498" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Bemesia tabaci nymphs yellow" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000290" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Cassava bacterial blight severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000031" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Gari weight after grinding" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000377" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Ascorbic Acid" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000284" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Gari starch" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000380" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Agronomical trait" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:Agronomical%20trait" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Caruncle Color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000298" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf lobe margin" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000392" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Sepal Color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000462" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Sprout count" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000466" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "post-harvest physiological deterioration" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000266" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tip shoot weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000499" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Apical Pubescence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000283" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Cassava brown streak disease leaf incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000040" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Suitability for Intercropping" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000496" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Cassava green mite severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000033" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Cassava" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:ROOT" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf scar height" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000398" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Seed Color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000459" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fruit set presence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000372" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Storage Root Cortex Color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000486" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Central Leaf Shape" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000353" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Apical Branching" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000282" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Storage root weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000493" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Branching habit" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000295" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant Height" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000432" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Cis 9 activity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000354" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Days to 50% anthesis" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000356" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Morphological trait" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:Morphological%20trait" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of flowering stalks" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000412" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Root Surface Color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000454" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Days to first inflorescence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000359" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Petiole Color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000427" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Non marketable root number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000408" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Ploidy" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000436" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Total Carotenoid Retention" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000500" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stipules Length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000483" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Days to 50% branching" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000357" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf Scar Prominence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000400" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fresh Shoot Weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000369" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Cassava brown streak disease leaf severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000036" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Starch Content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000474" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Storage Root Constrictions" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000485" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Proportion of female flower" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000439" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Iron Content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000387" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tuberous root cyanide content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000502" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Moisture Content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000407" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stipule margin" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000482" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Cassava brown streak disease root incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000089" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Cassava mosaic disease severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000035" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of rotten stem" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000417" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Cassava brown streak disease root severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000090" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf Retention" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000396" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000389" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Branching Angle" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000294" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Bemesia tabaci nymphs severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000289" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Branch height" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000293" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fufu Content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000373" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Sugar Content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000495" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Gari weight after drying" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000376" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fruit Exocarp Texture" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000371" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Typhlodromalus aripo" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000503" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Red Spider Mite Severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000444" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant Architecture" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000431" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stump weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000494" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Selected variety" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000461" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Sprouting" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000472" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Gari taste" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000381" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Petiole length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000429" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "B crypto activity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000287" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Branching Levels" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000296" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stem height" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000478" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stock weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000484" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stem number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000479" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf scar number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000399" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Root Neck Length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000451" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Petiole orientation" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000430" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Gari fibre" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000378" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stem Color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000475" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of terminal branches with inflorescence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000420" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Disc Color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000360" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of fruits" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000414" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Weight of mashed cassava cake" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000504" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Storage Root Diameter" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000487" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Red Spider Mite Incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000443" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Storage Root Periderm Color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000489" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Seedling number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000460" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stem epidermis color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000477" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Female Stamenoids" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000365" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Ease of Harvest" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000361" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Gari sampled weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000379" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Rotted Storage Roots" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000457" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Marketable root number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000405" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Female flower number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000364" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf Lobe Position" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000393" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Cassava Mealy Bug Severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000340" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Root Dry Matter Content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000447" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Spiraling Whitefly Severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000465" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Root Number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000452" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Abscisic Acid Content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000276" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of planted stakes" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000416" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Shoot apex compactness" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000272" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Peel weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000422" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Sooty Mould" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000463" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf lobe length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000391" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Root Position" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000453" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Gari Content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000374" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Young Stem Growth Habit" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000505" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Physiological trait" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:Physiological%20trait" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stigma Color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000481" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Gari shaft weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000375" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Proportion of Lodged Plants" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000440" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Days to first anthesis" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000358" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Rotten root proportion" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000458" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of fruitset" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000415" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Cassava anthracnose disease severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000032" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Cassava anthracnose disease severity - Cassavabase" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000032" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Cassava bacterial blight severity - Cassavabase" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000031" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Initial plant vigor" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000386" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Cassava mosaic disease severity - Cassavabase" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000035" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plantable stem number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000419" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tuberous root mineral salt content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000285" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Storage root length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000492" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Vitamin C" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000284" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stem yield" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000480" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "branching" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000293" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": " Root Number - Cassavabase" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000452" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": " Leaf Retention - Cassavabase" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000396" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Cassava brown streak disease leaf severity - Cassavabase" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000036" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fresh Weight of Storage Root - Cassavabase" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000493" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tuberous root constriction presence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000485" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tuberous root constriction presence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000446" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Outer skin color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000489" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Inner skin color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000486" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": " Rotted Storage Roots - Cassavabase" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000457" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Cassava brown streak disease root severity - Cassavabase" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000090" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Gari Content - Cassavabase" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000374" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stay green" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000396" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "dyfl" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000356" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stem height" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000478" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "mealiness" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000437" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant Architecture - Cassavabase" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000431" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Marketable root number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000452" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Unmarketable roots" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000457" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Cassava Mealy Bug Severity - Cassavabase" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000340" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Proportion of germinated stakes" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000472" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Cassava green mite severity - Cassavabase" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_334:0000033" }
+      }
+    ]
+  }
+}

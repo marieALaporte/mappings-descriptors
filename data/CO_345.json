@@ -1,0 +1,309 @@
+{
+  "head": {
+    "vars": [ "label" , "co" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Prosapia simulans antibiosis" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000044" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant chlorosis" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000033" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Neutral detergent fiber content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000029" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Crude protein content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000016" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant aspect" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000031" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Seed net yield" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000055" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Flower number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000019" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Abiotic stress trait" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:Abiotic%20stress%20trait" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Prosapia simulans adult number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000043" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Zulia carbonaria nymph damage" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000066" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Shoot biomass" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000056" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "In vitro dry matter digestibility" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000023" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Aeneolamia varia adult number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000008" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Filled seed proportion" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000018" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Chlorophyll content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000014" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Seed gross yield" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000053" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Prosapia simulans adult damage" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000042" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Prosapia simulans egg number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000045" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Biotic stress trait" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:Biotic%20stress%20trait" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Spittlebug egg number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000058" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Root length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000050" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Quality trait" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:Quality%20trait" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Root mean diameter" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000052" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Root length density" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000051" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant height" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000037" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Zulia carbonaria antibiosis" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000064" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Aeneolamia reducta nymph damage" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000006" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Proportion of off-type" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000041" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Agronomical trait" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:Agronomical%20trait" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant growth habit" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000036" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000026" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Prosapia simulans nymph damage" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000046" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stem biomass" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000059" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Rhizoctonia severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000047" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Morphological trait" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:Morphological%20trait" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Chlorotic leaf biomass" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000015" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf biomass" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000025" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Spittlebug adult number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000057" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Drought tolerance" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000017" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Green leaf biomass" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000022" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant phenotypic performance" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000039" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Aeneolamia reducta egg number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000005" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Water extraction rate" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000060" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Aluminium tolerance" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000012" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf width to length ratio" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000028" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant reproductive mode" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000040" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Aeneolamia reducta adult damage" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000002" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Root Vigor" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000226" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Acid detergent fiber content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000001" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant biomass" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000032" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Aeneolamia varia adult damage" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000007" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Aeneolamia varia nymph damage" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000011" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant leafiness" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000038" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Root biomass" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000049" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Aeneolamia reducta antibiosis" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000004" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Brachiaria" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:ROOT" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Photosynthetic efficiency" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000030" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant groundcover" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000035" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Aeneolamia varia antibiosis" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000009" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "In vitro dry matter digestibility of neutral detergent fiber fraction" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000024" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf width" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000027" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Green leaf area" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000021" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Aeneolamia reducta adult number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000003" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant diameter" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000034" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Root aspect" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000048" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Zulia carbonaria adult number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000063" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Aeneolamia varia egg number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000010" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Green Leaf Biomass proportion" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000233" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Seed harvest time" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000054" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Zulia carbonaria adult damage" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000062" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Physiological trait" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:Physiological%20trait" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Waterlogging tolerance" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000061" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Biomass harvest time" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000013" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Zulia carbonaria egg number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000065" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Proportion of off-types in progeny tests" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_345:0000041" }
+      }
+    ]
+  }
+}

@@ -1,0 +1,477 @@
+{
+  "head": {
+    "vars": [ "label" , "co" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Root dry weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000086" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Root dry weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000034" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Pod borer resistance" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000041" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Seed weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000026" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Shoot dry weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000030" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of flowers per peduncle" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000054" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Rooting depth" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000073" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Canopy height" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000062" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Alternaria blight resistance" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000081" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Biotic stress traits" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:Biotic%20stress%20traits" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Root dry weight/total plant dry weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000087" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "No. of fertile pods per plant" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000058" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Shoot sodium" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000032" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant pubescence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000080" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Seed protein content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000060" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Abiotic stress traits" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:Abiotic%20stress%20traits" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Transpiration efficiency" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000094" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Seed surface" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000021" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Basal primary branches number per plant" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000009" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Root length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000071" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Seed yield per plot" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000051" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Ascochyta blight resistance" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000039" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Root volume" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000090" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Seed color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000020" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Agronomical traits" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:Agronomical%20traits" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Root length density" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000088" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Colletotrichum blight resistance" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000038" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Botrytis grey mold resistance" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000036" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Carbon isotope discrimination" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000091" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Filled double pod number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000048" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant height" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000023" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Seed diameter" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000055" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Seed shape" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000019" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Flower color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000017" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Seeds per pod" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000005" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Variety group" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000053" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant width" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000014" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Seed yield per ha" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000027" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Days to 50% flowering" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000043" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "phytochemical compound content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000050" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stem dry weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000084" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Days to first flower" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000056" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Specific leaf area" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000092" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Apical secondary branches number per plant" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000008" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf chlorophyll content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000093" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Dots on seed coat" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000022" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Time to flowering" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000266" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant stand" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000083" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Morphological traits" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:Morphological%20traits" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Cold tolerance" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000057" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant pigmentation" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000015" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Growth habit" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000011" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf dry weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000085" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Drought tolerance" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000096" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Cooking time" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000061" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of leaflets per leaf" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000079" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Water use efficiency" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000095" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Pod weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000002" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Basal secondary branches number per plant" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000010" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tertiary branches number per plant" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000012" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Chickpea" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:ROOT" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Quality traits" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:Quality%20traits" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Biomass yield" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000059" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Harvest index" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000029" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Pod number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000003" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Root knot nematode resistance" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000082" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Growth vigor" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000063" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Flowering duration" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000049" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Salinity tolerance" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000072" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Dry root rot resistance" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000068" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Collar rot resistance" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000064" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf miner resistance" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000065" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Seed yield" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000265" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Root surface area" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000089" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Pod length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000076" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Taste" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000070" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Biomass yield per plant" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000047" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf type" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000066" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "High temperature tolerance" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000067" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant number per experimental unit" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000045" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Time to pod formation" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000074" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Cyst nematode resistance" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000075" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Seed per plant" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000052" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Viral (stunt) resistance" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000069" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Seed yield per plant" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000025" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Physiological traits" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:Physiological%20traits" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fusarium wilt resistance" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000037" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaflet margin" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000078" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Shoot potassium" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000033" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Pods per plant" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000004" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "plant anatomy related traits" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000013" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Apical primary branches number per plant" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000007" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Time to maturity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000044" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stem pigmentation" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000015" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Seed weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000025" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of pods per plant" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000003" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of pods per plant" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000004" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of basal primary branches per plant" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000009" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "100-seed mass" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000026" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Drought index" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000096" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of apical primary branches per plant" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000007" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Testa color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000020" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of tertiary branches per plant" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000012" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "SPAD values" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000093" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": " Seed coat color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000020" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Type of chickpea" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000053" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of seeds per plant" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000052" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of apical secondary branches per plant" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000008" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Biomass" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000030" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Heat tolerance" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000067" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant canopy width" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000014" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of basal secondary branches per plant" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000010" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant hairiness" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000080" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of seeds per pod" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000005" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Delta carbon" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000091" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant count" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000083" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant canopy height" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_338:0000062" }
+      }
+    ]
+  }
+}

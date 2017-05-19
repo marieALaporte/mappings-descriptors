@@ -1,0 +1,845 @@
+{
+  "head": {
+    "vars": [ "label" , "co" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Equality of sepal length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000331" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Foliage total yield" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000312" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to drought" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000348" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Black rot" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000380" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "General Outline of the Leaf" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000019" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaves per plant" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000436" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Wire worms" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000358" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Diaporthe dry rot" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000384" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Striped sweet potato weevil" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000356" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Appearance of roots" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000405" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Storage root cortex thickness" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000185" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Consistency of boiled storage root" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000346" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Petiole Pigmentation" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000043" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Abiotic stress trait" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:Abiotic%20stress%20trait" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Storage root stalk" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000342" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Weight of commercial storage roots" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000218" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Vine Tips Pubescence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000016" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Flesh Color (anthocyanins)" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000416" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Secondary Flesh color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000061" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to sweet potato weevil" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000088" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Seed capsule set" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000340" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Root Knot Nematode Meloidogyne spp" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000420" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Fusarium oxysporum" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000422" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Root Knot Nematode Meloidogyne incognita" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000421" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Glucose content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000121" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Magnesium content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000285" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Sweet potato leaf beetles" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000361" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of plants planted" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000303" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Peonidin content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000432" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Variability of storage root shape" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000343" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf Lobe Number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000025" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fructose content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000118" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Brown ring rot" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000373" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of commercial storage roots" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000212" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Sweet potato stem borer" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000369" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Color of style" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000338" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Overall appearance of cooked sample" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000270" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Storage root texture" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000136" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to leaf spot" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000386" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Maltose content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000127" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Sweet potato flea beetles" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000359" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Zinc content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000106" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Scurf" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000381" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Fusarium root rot" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000378" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Storage Root Shape (primary)" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000069" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Storage root starch content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000115" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Storage Root Shape" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000067" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Hornworm" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000364" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stigma exertion" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000339" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Soft rot" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000382" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Weight of storage root" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000240" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Weight of storage root" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000244" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to West Indian sweet potato weevil" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000355" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Sweet potato moth" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000367" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Pox or soil rot" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000391" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Moth" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000368" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Anthocyanin content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000433" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Storage Root Shape (secondary)" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000441" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Appearance of flower" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000404" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Total root weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000234" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Percentage of marketable roots" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000310" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Mature Leaf Color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000037" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Storage Root Attachement" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000411" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Distribution of Secondary Flesh color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000064" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Biotic stress trait" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:Biotic%20stress%20trait" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Aphids" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000365" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Quality trait" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:Quality%20trait" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Oxidation in Storage Roots" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000073" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Weight of non-commercial storage roots" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000221" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Relative Storage Root Yield" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000424" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Root lesion nematode" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000374" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Marketable root yield" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000307" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Early Blight: (Alternaria spp)" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000091" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Overall taste of cooked sample" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000266" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Twining" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000007" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Beta-carotene content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000109" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Scab" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000385" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Calcium content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000281" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Latex Production in Storage Roots" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000070" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Millipede damage" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000438" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of sepal veins" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000332" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Sweet Potato" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:ROOT" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Average commercial root weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000308" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Flower color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000046" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to high soil temperature" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000354" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of storage root damages" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000203" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Total Monomeric Anthocyanin content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000431" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Storage Root Shape Uniformity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000409" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Foot rot" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000388" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Shape of Central Leaf Lobe" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000028" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Intensity of Predominant Skin color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000052" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to salinity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000351" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Biochemical trait" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:Biochemical%20trait" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of non-commercial storage roots" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000215" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Ground Cover" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000004" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Storage Root Cortex Thickness" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000327" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to soil" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000353" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Protein content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000100" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Agronomic trait" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:Agronomic%20trait" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Appearance of hearbarium" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000408" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Vine internode length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000153" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Immature Leaf Color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000040" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Reniform nematode" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000371" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Predominant Flesh color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000058" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Storage Root Appearance" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000426" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Storage root form" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000199" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Bacterial stem and root rot" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000392" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant Type" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000001" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Sepal color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000336" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Other mycoplasma" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000401" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Mature Leaf Size" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000031" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Grubworm" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000363" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fiber cooked" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000256" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Total number of root" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000079" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Sweet potato mild mottle virus (SPMMV)" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000396" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Vine internode diameter" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000157" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Predominant Vine Color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000010" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Flesh Color (carotenoids)" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000415" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Morphological trait" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:Morphological%20trait" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Survival index" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000298" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Soil insect damage" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000440" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Bacterial wilt" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000393" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Cyanidin content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000430" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Sweet potato vein mottle virus (SPVMV)" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000397" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to other nematodes" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000375" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Phenol content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000434" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Length to Diameter Ratio of roots" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000412" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Sweet potato wire worms" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000357" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Flowering habit" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000328" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Sprouting ability" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000274" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Asparagine content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000429" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Sting nematode" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000372" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Storage root cracking" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000097" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Sclerotial blight and circular spot" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000379" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Java black rot" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000383" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Sweetness of boiled storage root flesh" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000139" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Other virus" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000399" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Appearance of plant" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000403" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Sepal shape" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000333" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Storage Root Surface Defects" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000326" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to heat" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000350" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Fusarium surface rot" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000377" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Other bacteria" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000394" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Keeping quality of storage roots" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000345" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Weight of vines" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000224" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Weight of vines" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000252" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Weight of vines" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000248" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Iron content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000103" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Biomass yield" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000311" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Harvest index" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000085" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Color of boiled roots" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000133" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Storage Root Defects" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000423" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Sweet potato white fly" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000366" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Yield of total roots" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000309" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Yield of total roots" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000082" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Petiole length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000170" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Storage root size" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000076" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Other fungi" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000390" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Storage Root Yield relative to check" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000425" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Appearance of leaves" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000407" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Virus symptoms" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000094" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Flower size" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000329" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to flea beetles" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000360" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Wilt rot" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000376" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Undesirable color of boiled storage root" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000347" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Storage Root Stalk" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000410" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Other insects" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000370" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Total carotenoids" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000112" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Alcidodes sp. damage" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000439" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Shape of limb" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000330" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Vine vigor" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000194" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Appearance of seeds" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000406" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Beetles" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000362" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Deep of eyes of roots" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000417" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Secondary Skin color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000055" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Nodes per vine" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000435" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Color of leave" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000437" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Sweet potato feathery mottle virus (SPMV)" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000395" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Color of stigma" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000337" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Charcoal rot" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000389" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Amylose content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000428" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Skin Texture of roots" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000414" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Sucrose content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000124" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of plants harvested" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000304" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Storage root dry matter content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000142" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Total sugar content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000402" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Sepal apex" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000334" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Variability of storage root size" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000344" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of plants established" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000189" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of Lenticels" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000418" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf Lobe Type" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000022" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Growing season" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000427" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of plants with storage roots" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000208" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to White rust" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000387" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Predominant Skin color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000049" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Storage root formation" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000341" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Streptomyces Soil Rot" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000419" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fiber content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000130" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Skin Color of roots" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000413" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Sweet potato virus disease complex (SPVD complex)" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000398" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Sepal pubescence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000335" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Secondary Vine Color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000013" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to Witches broom" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000400" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to flooding" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000349" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Reaction to shade" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000352" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Abaxial Leaf Vein Pigmentation" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000034" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Main vine length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000001" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "waterlogging response" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000349" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Storage root sweetness" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_331:0000139" }
+      }
+    ]
+  }
+}

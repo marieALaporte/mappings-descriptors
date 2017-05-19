@@ -1,0 +1,821 @@
+{
+  "head": {
+    "vars": [ "label" , "co" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Sprout hairiness" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000218" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tuber cracks" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000416" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Smoothness of pounded yam" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000448" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Seedling transplant survival rate" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000298" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Inflorescence type" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000260" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tuber flesh cross-section color uniformity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000435" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "True seeds harvested" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000282" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Place of roots on tubers" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000390" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Proportion of emerged plants" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000066" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Seeds germinated" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000295" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Average tuber weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000388" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Presence of bulbil" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000105" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Scale insect infestation" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000454" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Bulbil shape" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000335" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Foliage senescence time" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000111" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Foliage senescence time" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000306" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fibrousness of pounded yam" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000450" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Weight of planted tubers" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000057" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Senescenece class" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000312" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Established plants" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000207" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Medium size tubers weight per plot" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000365" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf Width" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000470" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Yam tuber dry rot incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000316" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Yam tuber dry rot incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000042" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant sex" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000093" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tuber flesh texture" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000439" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf beetle damage severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000156" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fruit set number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000099" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Taste of pounded yam" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000194" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Time to 50% flowering" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000245" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Small size tubers weight per plot" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000367" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Time to end of flowering" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000247" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Virus severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000084" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Vein color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000478" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Springiness of pounded yam" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000446" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Corm size" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000424" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Vine cutting establishment rate" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000302" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stem hairiness" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000473" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Yam" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:ROOT" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Time to 50% foliage senescence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000304" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Bulbil weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000337" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Medium size tubers per plot" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000349" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Small size tubers per plant" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000359" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Big size tubers per plot" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000347" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Corm separability from tuber" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000422" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Twining habit" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000240" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Biotic stress trait" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:Biotic%20stress%20trait" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Total tubers per plot" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000126" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stem diameter" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000228" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tuber dry matter content" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000174" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Quality trait" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:Quality%20trait" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf density" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000458" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Twining direction" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000242" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Root knot nematode incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000048" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tuber size" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000027" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Small size tuber weight per plant" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000378" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stem color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000456" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Presence of spot on spine base" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000214" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tuber beetle incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000165" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Status of fruit development" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000279" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Small size tubers per plot" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000351" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf position" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000466" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Seed germination rate" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000012" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of leaves" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000464" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Seeds germination start time" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000290" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Agronomical trait" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:Agronomical%20trait" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Time to fruit maturity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000274" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Mealybug tuber infestation incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000159" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Crazy roots presence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000418" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Pollination type" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000264" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Yam anthracnose disease severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000021" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fruits harvested number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000009" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Root knot nematode severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000051" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Pollinated spikes number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000003" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tuber beetle severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000168" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Average weigth of big size tuber" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000386" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Medium size tubers per plant" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000357" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tuber thorniness" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000144" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tuber flesh oxidation" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000150" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000468" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant Vigor" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000060" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Mealybug tuber infestation severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000162" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Big size tubers per plant" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000355" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Proportion of established plants" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000069" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of internodes to first branching" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000232" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Sprout color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000063" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Big size tuber width" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000408" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Vine cuttings planted" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000300" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf beetle damage incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000153" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Sprout length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000212" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tuber flesh oxidation color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000442" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tuber flesh oxidation intensity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000437" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stand harvested number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000123" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Total tuber yield" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000132" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Canopy architecture" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000030" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Fruit developed number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000006" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Medium size tuber weight per plant" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000376" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Morphological trait" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:Morphological%20trait" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Yam anthracnose disease incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000075" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Big size tuber weight per plant" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000374" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Pollinated florets number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000000" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stems per plant" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000072" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tuber flesh color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000147" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Corm on tuber" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000420" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Time to fruit harvesting" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000272" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Total tuber weight per plant" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000372" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tuber length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000404" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant type" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000236" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Seeds sown" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000288" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Time to first leaf emergence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000220" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Inflorescence initiation time" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000257" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Rotten or diseased tubers per plot" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000138" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tuber appearance" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000188" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Yam tuber dry rot severity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000045" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "leaf color" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000475" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Cohesiveness of pounded yam" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000444" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tubers planted" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000054" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Total tubers per plant" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000361" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Total tuber yield adjusted" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000382" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Corm type" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000426" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Medium size tuber length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000400" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf apex shape" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000223" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Big size tuber yield adjusted" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000384" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Seedling Establishment rate" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000015" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Seeds set per fruit" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000180" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Spines on stem density" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000234" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Petiole length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000484" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Branch number" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000460" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stem height" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000462" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tuber dormancy period" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000036" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Bulbil yield" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000120" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Yam tuber dry rot presence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000314" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Flowering intensity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000096" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Total fresh tuber weight per plot" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000370" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Time to flower initiation" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000090" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Time to bulbil initiation" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000108" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Spines on sprout presence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000216" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of emerged plants" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000204" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Internode length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000230" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Female flowering intensity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000262" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Stickiness of pounded yam" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000191" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Time to fruit setting" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000268" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tuber hairiness" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000183" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tuber surface texture" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000141" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Virus incidence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000081" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tuber width" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000414" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Small size tuber width" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000412" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Big size yam yield" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000135" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of bulbil" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000333" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of bulbil" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000117" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tuber shape" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000024" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Small size tuber length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000402" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf shape" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000225" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Big size tubers weight per plot" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000363" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Secondary sprouting" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000087" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Seeds germination end time" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000292" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Big size tuber length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000398" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Leaf hairiness" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000481" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Physiological trait" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:Physiological%20trait" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "50% sprout emergence time" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000200" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Crossing date" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000252" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tuber thorniness intensity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000396" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Phenological trait" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:Phenological%20trait" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "First sprout emergence time" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000198" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Medium size tuber width" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000410" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Time to maturity" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000310" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Date sart of seed germination" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000290" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Growing degree days" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000310" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Plant establishement ratio" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000069" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Setts planted weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000057" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "leaf abundance" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000458" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tubers per plot size 1" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000347" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "vine climbing direction" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000242" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "trailling" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000240" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "bontanical seed" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000282" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Aerial tuber yield" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000120" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tuber spineness" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000144" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Complete senescence time" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000306" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "seed yam" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000054" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tubers per plot size 2" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000349" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "tretchability or elasticity of pounded yam" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000446" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "vine length" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000462" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "flower sex" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000093" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Growth habit" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000236" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Maturity class" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000312" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Matured fruit" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000009" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of aerial tuber" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000333" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Number of aerial tuber" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000117" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Date end of seed germination" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000292" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "ratio of emerged plants or sprouts" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000066" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Spine intensity on tubers" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000396" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Aerial tuber formation" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000105" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Tubers per plot size 3" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000351" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "fruit formation time" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000268" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Aerial tuber shape" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000335" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Mechanism of pollination" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000264" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": " climbing habit" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000240" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Aerial tuber initiation time" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000108" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Aerial tuber weight" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000337" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "femal flower abudance per inflorence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000262" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Times to complete senescence" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000111" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "leaf arrangement" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000466" }
+      } ,
+      {
+        "label": { "type": "literal" , "xml:lang": "en" , "value": "Partial senescence time" } ,
+        "co": { "type": "uri" , "value": "http://www.cropontology.org/rdf/CO_343:0000304" }
+      }
+    ]
+  }
+}
